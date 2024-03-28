@@ -6,6 +6,7 @@
 **This Modpack intends to satisfy the sickest of Employees, those who crave the adrenaline of horror and the challenge of Death! 
 Inside lurks brand new dangers and the tools to face them.**
 ---
+![New Features](https://github.com/Mi6kbuttface/ForgedInFatality/blob/main/NewFeaturesBanner.gif)
 **Crafted from 100+ mods, you will face;**
 - A Lobby Up To 32 Incompetent Assets!
 - New Monsters and Entities!
