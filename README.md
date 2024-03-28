@@ -4,7 +4,6 @@
 # [BETA] Welcome to ForgedInFatality!
 ### A Challenging yet Balanced Modpack designed to Test your Mortality.
 **This Modpack intends to satisfy the sickest of Employees, those who crave the adrenaline of horror and the challenge of Death!
-
 Inside lurks brand new dangers and the tools to face them.
 
 Intended for Squads of 2-8 who want to experience the full Wrath of the Best mods produced by a loving modding community.**
