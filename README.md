@@ -1,2 +1,2 @@
 # ForgedInFatality
-[BETA] ForgedInFatlity, a Challenging yet Balanced Modpack containing 100+ Quality Mods including New Enemies, Moons, Interiors, and QoL to test your Mortality.
+![Modpack](https://github.com/Mi6kbuttface/ForgedInFatality/blob/main/FiFBanner.gif)
