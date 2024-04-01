@@ -11,7 +11,7 @@ Intended for Squads of 2-8 who want to experience the Full Wrath of the Best mod
 ![New Features](https://github.com/Mi6kbuttface/ForgedInFatality/blob/main/NewFeaturesBanner.gif)
 --------------------------------
 ### **Crafted from 100+ carefully configured mods, you will face;**
-- Create Lobby Up To 32 Incompetent Assets (8 Recommended)!
+- Lobbies Up To 32 Incompetent Assets (8 Recommended)!
 - New Monsters and Entities!
 - Dangerously Beautiful New Moons!
 - Exploration of New Interior Dungeons!
