@@ -8,7 +8,7 @@ Inside lurks brand new dangers and the tools to face them.
 Intended for Squads of 2-8 who want to experience the Full Wrath of the Best mods produced by a loving modding community.**
 
 # ⚡New Features!⚡
-![New Features](https://github.com/Mi6kbuttface/ForgedInFatality/blob/main/NewFeaturesBanner.gif)
+![Features](https://github.com/Mi6kbuttface/ForgedInFatality/blob/main/NewFeaturesBanner.gif)
 --------------------------------
 ### **Crafted from 100+ carefully configured mods, you will face;**
 - Lobbies Up To 32 Incompetent Assets (8 Recommended)!
@@ -19,3 +19,7 @@ Intended for Squads of 2-8 who want to experience the Full Wrath of the Best mod
 - Balanced Leveling & XP System!
 - 200+ Emotes and Only The Drippiest of Suits and Cosmetics 
 - Many Quality of Life changes, Peformancing Enhancing Mods, and Much, Much, More!
+
+# Controls & Keybinds
+![Keybinds]()
+--------------------------------
