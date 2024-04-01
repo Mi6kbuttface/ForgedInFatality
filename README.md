@@ -13,6 +13,7 @@ Intended for Squads of 2-8 who want to experience the Full Wrath of the Best mod
 - A Lobby Up To 32 Incompetent Assets (8 Recommended)!
 - New Monsters and Entities!
 - Dangerously Beautiful New Moons!
-- Despair of Unfamiliar Dungeons!
+- Exploration of New Interior Dungeons!
 - An Engaging Difficulty Curve!
 - A Balanced Leveling & XP System!
+- Many Quality of Life changes, Peformancing Enhancing Mods, and Much, Much, More!
